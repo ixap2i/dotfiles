@@ -1,4 +1,4 @@
-.CFUserTextEncoding
+i.CFUserTextEncoding
 .DS_Store
 Applications/
 Desktop/
@@ -13,5 +13,12 @@ Downloads/
 .zsh_history
 .viminfo
 .mysql_history
-.gem/
+.gem
 .bash_history
+.rbenv
+.bundle
+
+Gemfile.lock
+yarn.lock
+
+.env*
