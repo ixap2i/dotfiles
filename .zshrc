@@ -98,3 +98,9 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # display current path right side on terminal
 RPROMPT="%~"
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+
+# ruby settings
+export PATH="~/.rbenv/shims:/usr/local/bin:$PATH"
+eval "$(rbenv init -)"

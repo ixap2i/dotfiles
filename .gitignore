@@ -3,9 +3,15 @@
 Applications/
 Desktop/
 Documents/
-Downloads/
 Library/
 Movies/
 Music/
 Pictures/
 Public/
+Downloads/
+.Trash/
+.zsh_history
+.viminfo
+.mysql_history
+.gem/
+.bash_history
