@@ -1,0 +1,11 @@
+[user]
+	name = ixap2i
+	email = ayamashita124@gmail.com
+[core]
+	ignorecase = false
+	quotepath = false
+	safecrlf = true
+	autocrlf = false
+	editor = vim -c \"set fenc=utf-8\"
+[credential]
+	helper = wincred

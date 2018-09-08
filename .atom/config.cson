@@ -1,0 +1,8 @@
+"*":
+  core:
+    themes: [
+      "city-lights-ui"
+      "city-lights-syntax"
+    ]
+  "exception-reporting":
+    userId: "a2218c34-9ef2-4dae-bb75-3cc6aa77201f"
